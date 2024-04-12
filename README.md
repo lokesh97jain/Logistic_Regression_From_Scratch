@@ -13,8 +13,6 @@ data: This folder contains the dataset files required for the project.
 
 penguins.csv: The CSV file containing the penguin dataset with features and sex labels. images: This folder stores any images used in the Jupyter Notebook for visualization purposes.
 
-README.md: The readme file you are currently reading.
-
 Dependencies To run the Jupyter Notebook and reproduce the results, you will need the following dependencies:
     1. Python 
     2. Jupyter Notebook 
